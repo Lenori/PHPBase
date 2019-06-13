@@ -1,0 +1,26 @@
+/*
+System: PHP start files
+Author: Leo Lenori
+Description: PHP/HTML/CSS start files for PHP project
+Version: 0.0.1
+*/
+
+.fas {
+
+    line-height: inherit !important;
+
+}
+
+a, a:visited, a:hover {
+
+    color: inherit;
+    font-size: inherit;
+    text-decoration: none;
+
+}
+
+body {
+
+    font-family: 'Open Sans', sans-serif !important;
+
+}
